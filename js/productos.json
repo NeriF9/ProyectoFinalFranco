@@ -1,0 +1,111 @@
+
+[
+    {
+        "titulo": "NG-2",
+        "imagen": "/img/img-Cont-Temp/ng-2.jpg",
+        "funcion": "Control de Temperatura",
+        "marca": "Dinter",
+        "precio": 200.00,
+        "id": 1,
+        "categoria": {
+            "nombre": "Controladores de Temperatura",
+            "id": "controlador"
+        }
+    },
+    {
+        "titulo": "NP-2",
+        "imagen": "/img/img-Cont-Temp/np_2.jpg",
+        "funcion": "Control de Temperatura",
+        "marca": "Dinter",
+        "precio": 200.00,
+        "id": 2,
+        "categoria": {
+            "nombre": "Controladores de Temperatura",
+            "id": "controlador"
+        }
+    },
+    {
+        "titulo": "NF-2",
+        "imagen": "/img/img-Cont-Temp/nf_2.jpg",
+        "funcion": "Control de Temperatura",
+        "marca": "Dinter",
+        "precio": 200.00,
+        "id": 3,
+        "categoria": {
+            "nombre": "Controladores de Temperatura",
+            "id": "controlador"
+        }
+    },
+    {
+        "titulo": "NL-2",
+        "imagen": "/img/img-Cont-Temp/nl_2.jpg",
+        "funcion": "Control de Temperatura",
+        "marca": "Dinter",
+        "precio": 200.00,
+        "id": 4,
+        "categoria": {
+            "nombre": "Controladores de Temperatura",
+            "id": "controlador"
+        }
+    },
+    {
+        "titulo": "TL-2",
+        "imagen": "/img/img-Temporizador/tl_2.jpg",
+        "funcion": "Temporizadores",
+        "marca": "Dinter",
+        "precio": 200.00,
+        "id": 5,
+        "categoria": {
+            "nombre": "Temporizadores",
+            "id": "temporizador"
+        }
+    },
+    {
+        "titulo": "TG-2",
+        "imagen": "/img/img-Temporizador/tg_2.jpg",
+        "funcion": "Temporizadores",
+        "marca": "Dinter",
+        "precio": 250.00,
+        "id": 6,
+        "categoria": {
+            "nombre": "Temporizadores",
+            "id": "temporizador"
+        }
+    },
+    {
+        "titulo": "TW-2",
+        "imagen": "/img/img-Temporizador/tw_2.jpg",
+        "funcion": "Temporizadores",
+        "marca": "Dinter",
+        "precio": 250.00,
+        "id": 7,
+        "categoria": {
+            "nombre": "Temporizadores",
+            "id": "temporizador"
+        }
+    },
+    {
+        "titulo": "LF-19",
+        "imagen": "/img/img-Caudalimetro/lf19_1.jpg",
+        "funcion": "Dosificador de Agua",
+        "marca": "Dinter",
+        "precio": 2000.00,
+        "id": 8,
+        "categoria": {
+            "nombre": "Dosificadores de Agua",
+            "id": "dosificador"
+        }
+    },
+    {
+        "titulo": "CR-D",
+        "imagen": "/img/img-Caudalimetro/crd_1.jpg",
+        "funcion": "Dosificador de Agua",
+        "marca": "Dinter",
+        "precio": 1500.00,
+        "id": 9,
+        "categoria": {
+            "nombre": "Dosificadores de Agua",
+            "id": "dosificador"
+        }
+    }
+]
